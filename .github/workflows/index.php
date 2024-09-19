@@ -1,2 +1,3 @@
 <?php
-echo "Hello from Shelia Nkuranga";
+
+echo "Hello World!";
